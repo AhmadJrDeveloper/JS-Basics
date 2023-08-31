@@ -7,5 +7,5 @@ const city = document.querySelector("#city");
     name.value = "";
     surname.value = "";
     city.value = "";
- }
+}
 }
