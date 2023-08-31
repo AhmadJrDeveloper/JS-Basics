@@ -8,5 +8,4 @@ const city = document.querySelector("#city");
     surname.value = "";
     city.value = "";
  }
-
 }
